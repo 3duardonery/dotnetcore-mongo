@@ -1,0 +1,8 @@
+/home/joseeduardo/Dotnet/testapi/bin/Debug/netcoreapp1.1/testapi.deps.json
+/home/joseeduardo/Dotnet/testapi/bin/Debug/netcoreapp1.1/testapi.runtimeconfig.json
+/home/joseeduardo/Dotnet/testapi/bin/Debug/netcoreapp1.1/testapi.runtimeconfig.dev.json
+/home/joseeduardo/Dotnet/testapi/bin/Debug/netcoreapp1.1/testapi.dll
+/home/joseeduardo/Dotnet/testapi/bin/Debug/netcoreapp1.1/testapi.pdb
+/home/joseeduardo/Dotnet/testapi/obj/Debug/netcoreapp1.1/testapi.AssemblyInfo.cs
+/home/joseeduardo/Dotnet/testapi/obj/Debug/netcoreapp1.1/testapi.dll
+/home/joseeduardo/Dotnet/testapi/obj/Debug/netcoreapp1.1/testapi.pdb
